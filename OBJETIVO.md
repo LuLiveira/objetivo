@@ -1,0 +1,52 @@
+# ROADMAP - 2022
+### Objetivo: Me tornar desenvolvedor Sênior ou Especialista.
+
+##Trilha
+- [ ] Testes Unitários
+  - TDD
+  - BDD
+    - [Curso de Testes Unitários](https://www.udemy.com/course/testes-unitarios-em-java/)
+    - [Aprenda BDD com Cucumber em JAVA](https://www.udemy.com/course/cucumber-java/)
+    - [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
+- [ ] Splunk
+  - [Introdução ao Splunk](https://www.udemy.com/course/introducao-ao-splunk/)
+  - [Splunk básico](https://www.youtube.com/watch?v=oKZ3_e-9Q7I&list=PL8vOoYAs_ySxS_b0mFeSbPe8q-VDyX55w)
+- [ ] Análise de complexidade
+  - [Dica rápida de como saber a complexidade de um algoritmo](https://www.youtube.com/watch?v=f--A1FK6KK4)
+  - [Refatorando na prática: Análise de complexidade do código final](https://www.youtube.com/watch?v=ffAFTRgYBi8)
+  - [O pedaço que talvez falte para analisar complexidade de código](https://www.youtube.com/watch?v=QKK7vDZYo5I)
+  - [CDD (Cognitive Driven Development): Como o contexto pode influenciar no limite de complexidade](https://www.youtube.com/watch?v=NwYjSgEivyU)
+  - [CDD: Cognitive Driven Development](https://www.youtube.com/watch?v=rqw_Jnv6ZX4)
+  - [Pilares de um(a) dev eficiente](https://www.youtube.com/playlist?list=PLVHlvMRWE0Y4WmkV47XaWeF-Xfl_lGq8S)
+- [ ] Programação concorrente
+  - [Programação Concorrente](https://www.youtube.com/watch?v=FYKNHk3Ze8A)
+  - [Programação Concorrente - Java Threads - Introdução](https://www.youtube.com/watch?v=bCmrhSma5bw)
+  - [Programação Concorrente - Java Threads - Criando e Executando Thread](https://www.youtube.com/watch?v=4MetzKSvzqU)
+  - [Threads em Java 1: Programação paralela](https://www.alura.com.br/curso-online-threads-java-1)
+  - [Threads em Java 2: Programação concorrente avançada](https://www.alura.com.br/curso-online-threads-java-2)
+- [ ] Depuração de código
+  - [Java Debug: técnicas para entender e melhorar o seu código](https://www.alura.com.br/curso-online-java-debug)
+- [ ] Design Patterns
+  - [Design Patterns com Java - Entendendo Padrões de Projetos](https://www.udemy.com/course/curso-design-patterns-java/)
+  - [Design Patterns em Java I: Introdução às boas práticas de programação](https://www.alura.com.br/curso-online-introducao-design-patterns-java)
+  - [Design Patterns em Java II: Avançando nas boas práticas de programação](https://www.alura.com.br/curso-online-avancando-design-patterns-java)
+- [ ] DevOps
+  - Docker 
+  - Kubernetes 
+  - Jenkins
+    - [Docker: Ferramenta essencial para Desenvolvedores](https://www.udemy.com/course/curso-docker/)
+    - [DevOps Ninja: Docker, Kubernetes e Rancher](https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/)
+    - [Docker do 0 à Maestria: Contêineres Desmistificados + BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/)
+    - [Formação Certificação Docker DCA](https://www.alura.com.br/formacao-docker-dca)
+    - [Orquestração de Containers com Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
+    - [Formação DevOps](https://www.alura.com.br/formacao-devops)
+- [ ] Bancos de dados relacionais e SQL
+  - [SQL Server, MySQL, Oracle, T-SQL e PLSQL](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
+- [ ] Técnicas de refactoring de código
+  - [Defina um objetivo claro para o seu processo de refatoração](https://www.youtube.com/watch?v=J1Vo4o2e1Ug)
+- [ ] New Relic
+  - [O que é New Relic? - Entrevista com Marcelo Cintra no SpringOne Platform 2016](https://www.youtube.com/watch?v=l0niBGRWk-A)
+  - [MOTU: Monitoramento e troubleshooting com New Relic](https://www.youtube.com/watch?v=5TS2JUxDV9c)
+- [ ] AWS
+  - [AWS para Iniciantes 2020 - Aprenda e Domine a nuvem Amazon](https://www.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/)
+  - [Formação Amazon Web Services](https://www.alura.com.br/formacao-amazon-web-services)
