@@ -5,7 +5,7 @@
 - [ ] Testes Unitários
   - TDD
   - BDD
-    - [Curso de Testes Unitários](https://www.udemy.com/course/testes-unitarios-em-java/)
+    - [ ] [Curso de Testes Unitários](https://www.udemy.com/course/testes-unitarios-em-java/)
     - [Aprenda BDD com Cucumber em JAVA](https://www.udemy.com/course/cucumber-java/)
     - [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
 - [ ] Splunk
