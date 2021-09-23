@@ -2,9 +2,11 @@
 ### Objetivo: Me tornar desenvolvedor Sênior ou Especialista.
 
 ## Trilha
-- [ ] Testes Unitários
+- [ ] Testes
   - TDD
     - [ ] [Curso de Testes Unitários](https://www.udemy.com/course/testes-unitarios-em-java/)
+  - Performance 
+    - [ ] [Testes de performance](https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/)
   - BDD
     - [ ] [Aprenda BDD com Cucumber em JAVA](https://www.udemy.com/course/cucumber-java/)
     - [ ] [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
