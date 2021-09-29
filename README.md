@@ -5,6 +5,8 @@
 - [ ] Testes
   - TDD
     - [ ] [Curso de Testes Unitários](https://www.udemy.com/course/testes-unitarios-em-java/)
+  - Teste de Integração
+    - [ ] [Aprenda testes de integração com Spring Boot](https://www.udemy.com/course/testes-de-integracao-com-spring-boot/)
   - Performance 
     - [ ] [Testes de performance](https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/)
   - BDD
