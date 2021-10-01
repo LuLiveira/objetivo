@@ -51,6 +51,7 @@
   - Jenkins
 - [ ] Bancos de dados relacionais e SQL
   - [ ] [SQL Server, MySQL, Oracle, T-SQL e PLSQL](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
+  - [ ] [Aprenda Redis](https://www.udemy.com/course/aprenda-redis/)
 - [ ] Técnicas de refactoring de código
   - [ ] [Defina um objetivo claro para o seu processo de refatoração](https://www.youtube.com/watch?v=J1Vo4o2e1Ug)
 - [ ] New Relic
