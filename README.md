@@ -14,7 +14,7 @@
     - [ ] [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
 - [ ] Mensageria
   - RabbitMQ
-    - [ ] [RabbitMQ: de A-Z com exemplos](https://www.udemy.com/course/rabbitmq-de-a-z/)
+    - [x] [RabbitMQ: de A-Z com exemplos](https://www.udemy.com/course/rabbitmq-de-a-z/)
     - [ ] [RabbitMQ com SpringBoot e Docker](https://www.udemy.com/course/rabbitmq-com-springboot-e-docker/)
     - [ ] [Reprocessamento de Filas RabbitMQ no SpringBoot](https://www.udemy.com/course/reprocessamento-de-filas-rabbitmq-no-springboot/)
 - [ ] Splunk
