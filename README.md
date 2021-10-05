@@ -12,6 +12,8 @@
   - BDD
     - [ ] [Aprenda BDD com Cucumber em JAVA](https://www.udemy.com/course/cucumber-java/)
     - [ ] [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
+  - [ ] [Testando API Rest com REST-assured](https://www.udemy.com/course/testando-api-rest-com-rest-assured/)
+  - [ ] [Automação de testes de API com Postman + Projeto de testes](https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/)
 - [ ] Mensageria
   - RabbitMQ
     - [x] [RabbitMQ: de A-Z com exemplos](https://www.udemy.com/course/rabbitmq-de-a-z/)
@@ -61,3 +63,4 @@
 - [ ] AWS
   - [ ] [AWS para Iniciantes 2020 - Aprenda e Domine a nuvem Amazon](https://www.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/)
   - [ ] [Formação Amazon Web Services](https://www.alura.com.br/formacao-amazon-web-services)
+  - [ ] [REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/)
