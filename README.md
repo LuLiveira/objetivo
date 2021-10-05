@@ -52,6 +52,7 @@
     - [ ] [Orquestração de Containers com Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
     - [ ] [Formação DevOps](https://www.alura.com.br/formacao-devops)
   - Jenkins
+  - [ ] [Aprenda a Criar Especificações de APIs com Swagger e OpenAPI](https://www.udemy.com/course/aprenda-a-criar-especificacoes-de-apis-com-swagger-e-openapi/)
 - [ ] Bancos de dados relacionais e SQL
   - [ ] [SQL Server, MySQL, Oracle, T-SQL e PLSQL](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
   - [ ] [Aprenda Redis](https://www.udemy.com/course/aprenda-redis/)
