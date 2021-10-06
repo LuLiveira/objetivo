@@ -14,14 +14,20 @@
     - [ ] [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
   - [ ] [Testando API Rest com REST-assured](https://www.udemy.com/course/testando-api-rest-com-rest-assured/)
   - [ ] [Automação de testes de API com Postman + Projeto de testes](https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/)
+- [ ] Observability
+  - [ ] Grafana
+    - [ ] [Monitoramento de aplicações com Prometheus e Grafana](https://www.udemy.com/course/monitorando-aplicacoes-com-prometheus-e-grafana/)
+  - [ ] Splunk
+    - [ ] [Introdução ao Splunk](https://www.udemy.com/course/introducao-ao-splunk/)
+    - [ ] [Splunk básico](https://www.youtube.com/watch?v=oKZ3_e-9Q7I&list=PL8vOoYAs_ySxS_b0mFeSbPe8q-VDyX55w)
+  - [ ] New Relic
+    - [ ] [O que é New Relic? - Entrevista com Marcelo Cintra no SpringOne Platform 2016](https://www.youtube.com/watch?v=l0niBGRWk-A)
+    - [ ] [MOTU: Monitoramento e troubleshooting com New Relic](https://www.youtube.com/watch?v=5TS2JUxDV9c)
 - [ ] Mensageria
   - RabbitMQ
     - [x] [RabbitMQ: de A-Z com exemplos](https://www.udemy.com/course/rabbitmq-de-a-z/)
     - [x] [RabbitMQ com SpringBoot e Docker](https://www.udemy.com/course/rabbitmq-com-springboot-e-docker/)
     - [ ] [Reprocessamento de Filas RabbitMQ no SpringBoot](https://www.udemy.com/course/reprocessamento-de-filas-rabbitmq-no-springboot/)
-- [ ] Splunk
-  - [ ] [Introdução ao Splunk](https://www.udemy.com/course/introducao-ao-splunk/)
-  - [ ] [Splunk básico](https://www.youtube.com/watch?v=oKZ3_e-9Q7I&list=PL8vOoYAs_ySxS_b0mFeSbPe8q-VDyX55w)
 - [ ] Análise de complexidade
   - [ ] [Dica rápida de como saber a complexidade de um algoritmo](https://www.youtube.com/watch?v=f--A1FK6KK4)
   - [ ] [Refatorando na prática: Análise de complexidade do código final](https://www.youtube.com/watch?v=ffAFTRgYBi8)
@@ -58,9 +64,6 @@
   - [ ] [Aprenda Redis](https://www.udemy.com/course/aprenda-redis/)
 - [ ] Técnicas de refactoring de código
   - [ ] [Defina um objetivo claro para o seu processo de refatoração](https://www.youtube.com/watch?v=J1Vo4o2e1Ug)
-- [ ] New Relic
-  - [ ] [O que é New Relic? - Entrevista com Marcelo Cintra no SpringOne Platform 2016](https://www.youtube.com/watch?v=l0niBGRWk-A)
-  - [ ] [MOTU: Monitoramento e troubleshooting com New Relic](https://www.youtube.com/watch?v=5TS2JUxDV9c)
 - [ ] AWS
   - [ ] [AWS para Iniciantes 2020 - Aprenda e Domine a nuvem Amazon](https://www.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/)
   - [ ] [Formação Amazon Web Services](https://www.alura.com.br/formacao-amazon-web-services)
