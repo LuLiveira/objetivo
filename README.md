@@ -54,9 +54,13 @@
     - [ ] [DevOps Ninja: Docker, Kubernetes e Rancher](https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/)
     - [ ] [Docker do 0 à Maestria: Contêineres Desmistificados + BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/)
     - [ ] [Formação Certificação Docker DCA](https://www.alura.com.br/formacao-docker-dca)
+  - [ ] Pipelines
+    - [ ] [Gitlab CI: Pipelines, Continuous Delivery e Deployment](https://www.udemy.com/course/gitlab-ci-pipelines-continuous-delivery-e-deployment/)
+    - [ ] [DevOps na Prática: Criando uma Pipeline do Zero](https://www.udemy.com/course/devops-na-pratica-criando-uma-pipeline-do-zero/)
   - Kubernetes 
     - [ ] [Orquestração de Containers com Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
     - [ ] [Formação DevOps](https://www.alura.com.br/formacao-devops)
+    - [ ] [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](https://www.udemy.com/course/azurepipelines/)
   - Jenkins
   - [ ] [Aprenda a Criar Especificações de APIs com Swagger e OpenAPI](https://www.udemy.com/course/aprenda-a-criar-especificacoes-de-apis-com-swagger-e-openapi/)
 - [ ] Bancos de dados relacionais e SQL
