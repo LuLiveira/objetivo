@@ -15,12 +15,12 @@
   - [ ] [Testando API Rest com REST-assured](https://www.udemy.com/course/testando-api-rest-com-rest-assured/)
   - [ ] [Automação de testes de API com Postman + Projeto de testes](https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/)
 - [ ] Observability
-  - [ ] Grafana
+  - Grafana
     - [ ] [Monitoramento de aplicações com Prometheus e Grafana](https://www.udemy.com/course/monitorando-aplicacoes-com-prometheus-e-grafana/)
-  - [ ] Splunk
+  - Splunk
     - [ ] [Introdução ao Splunk](https://www.udemy.com/course/introducao-ao-splunk/)
     - [ ] [Splunk básico](https://www.youtube.com/watch?v=oKZ3_e-9Q7I&list=PL8vOoYAs_ySxS_b0mFeSbPe8q-VDyX55w)
-  - [ ] New Relic
+  - New Relic
     - [ ] [O que é New Relic? - Entrevista com Marcelo Cintra no SpringOne Platform 2016](https://www.youtube.com/watch?v=l0niBGRWk-A)
     - [ ] [MOTU: Monitoramento e troubleshooting com New Relic](https://www.youtube.com/watch?v=5TS2JUxDV9c)
 - [ ] Mensageria
