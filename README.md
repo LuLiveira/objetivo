@@ -54,7 +54,7 @@
     - [ ] [DevOps Ninja: Docker, Kubernetes e Rancher](https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/)
     - [ ] [Docker do 0 à Maestria: Contêineres Desmistificados + BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/)
     - [ ] [Formação Certificação Docker DCA](https://www.alura.com.br/formacao-docker-dca)
-  - [ ] Pipelines
+  - Pipelines
     - [ ] [Gitlab CI: Pipelines, Continuous Delivery e Deployment](https://www.udemy.com/course/gitlab-ci-pipelines-continuous-delivery-e-deployment/)
     - [ ] [DevOps na Prática: Criando uma Pipeline do Zero](https://www.udemy.com/course/devops-na-pratica-criando-uma-pipeline-do-zero/)
   - Kubernetes 
