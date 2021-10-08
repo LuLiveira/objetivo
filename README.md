@@ -70,5 +70,6 @@
   - [ ] [Defina um objetivo claro para o seu processo de refatoração](https://www.youtube.com/watch?v=J1Vo4o2e1Ug)
 - [ ] AWS
   - [ ] [AWS para Iniciantes 2020 - Aprenda e Domine a nuvem Amazon](https://www.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/)
+  - [ ] [Criando microsserviços em Java com AWS ECS e Fargate](https://www.udemy.com/course/aws-ecs-fargate-java/)
   - [ ] [Formação Amazon Web Services](https://www.alura.com.br/formacao-amazon-web-services)
   - [ ] [REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/)
