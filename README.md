@@ -44,7 +44,7 @@
 - [ ] Depuração de código
   - [ ] [Java Debug: técnicas para entender e melhorar o seu código](https://www.alura.com.br/curso-online-java-debug)
 - [ ] Design Patterns
-  - [ ] [Aprendendo Domain Driven Design (DDD) do zero](https://www.udemy.com/course/aprendendo-domain-drive-design-ddd-do-zero/)
+  - [x] [Aprendendo Domain Driven Design (DDD) do zero](https://www.udemy.com/course/aprendendo-domain-drive-design-ddd-do-zero/)
   - [ ] [Design Patterns com Java - Entendendo Padrões de Projetos](https://www.udemy.com/course/curso-design-patterns-java/)
   - [ ] [Design Patterns em Java I: Introdução às boas práticas de programação](https://www.alura.com.br/curso-online-introducao-design-patterns-java)
   - [ ] [Design Patterns em Java II: Avançando nas boas práticas de programação](https://www.alura.com.br/curso-online-avancando-design-patterns-java)
