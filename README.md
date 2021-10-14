@@ -69,6 +69,7 @@
 - [ ] Técnicas de refactoring de código
   - [ ] [Defina um objetivo claro para o seu processo de refatoração](https://www.youtube.com/watch?v=J1Vo4o2e1Ug)
 - [ ] AWS
+  - [ ] [Certificação AWS Desenvolvedor - Associate - 2021 (CodePipeline)](https://www.udemy.com/course/aws-developer/)
   - [ ] [Amazon Lambda: Primeiros passos à execução de código sem servidor](https://www.alura.com.br/curso-online-serverless-aws-lambda)
   - [ ] [AWS para Iniciantes 2020 - Aprenda e Domine a nuvem Amazon](https://www.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/)
   - [ ] [Criando microsserviços em Java com AWS ECS e Fargate](https://www.udemy.com/course/aws-ecs-fargate-java/)
