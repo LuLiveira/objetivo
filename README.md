@@ -1,77 +1,21 @@
 # ROADMAP - 2022
-### Objetivo: Me tornar desenvolvedor Sênior ou Especialista.
+### Objetivo: Me tornar desenvolvedor Sênior.
 
-## Trilha
-- [ ] Testes
-  - TDD
-    - [x] [Curso de Testes Unitários](https://www.udemy.com/course/testes-unitarios-em-java/)
-  - Teste de Integração
-    - [ ] [Aprenda testes de integração com Spring Boot](https://www.udemy.com/course/testes-de-integracao-com-spring-boot/)
-  - Performance 
-    - [ ] [Testes de performance](https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/)
-  - BDD
-    - [ ] [Aprenda BDD com Cucumber em JAVA](https://www.udemy.com/course/cucumber-java/)
-    - [ ] [BDD e Java: Behavior Driven Development com Cucumber](https://www.alura.com.br/curso-online-bdd-cucumber-java)
-  - [ ] [Testando API Rest com REST-assured](https://www.udemy.com/course/testando-api-rest-com-rest-assured/)
-  - [ ] [Automação de testes de API com Postman + Projeto de testes](https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/)
-- [ ] Observability
-  - Grafana
-    - [ ] [Monitoramento de aplicações com Prometheus e Grafana](https://www.udemy.com/course/monitorando-aplicacoes-com-prometheus-e-grafana/)
-  - Splunk
-    - [ ] [Introdução ao Splunk](https://www.udemy.com/course/introducao-ao-splunk/)
-    - [ ] [Splunk básico](https://www.youtube.com/watch?v=oKZ3_e-9Q7I&list=PL8vOoYAs_ySxS_b0mFeSbPe8q-VDyX55w)
-  - New Relic
-    - [ ] [O que é New Relic? - Entrevista com Marcelo Cintra no SpringOne Platform 2016](https://www.youtube.com/watch?v=l0niBGRWk-A)
-    - [ ] [MOTU: Monitoramento e troubleshooting com New Relic](https://www.youtube.com/watch?v=5TS2JUxDV9c)
-- [ ] Mensageria
-  - RabbitMQ
-    - [x] [RabbitMQ: de A-Z com exemplos](https://www.udemy.com/course/rabbitmq-de-a-z/)
-    - [x] [RabbitMQ com SpringBoot e Docker](https://www.udemy.com/course/rabbitmq-com-springboot-e-docker/)
-    - [ ] [Reprocessamento de Filas RabbitMQ no SpringBoot](https://www.udemy.com/course/reprocessamento-de-filas-rabbitmq-no-springboot/)
-- [ ] Análise de complexidade
-  - [ ] [Dica rápida de como saber a complexidade de um algoritmo](https://www.youtube.com/watch?v=f--A1FK6KK4)
-  - [ ] [Refatorando na prática: Análise de complexidade do código final](https://www.youtube.com/watch?v=ffAFTRgYBi8)
-  - [ ] [O pedaço que talvez falte para analisar complexidade de código](https://www.youtube.com/watch?v=QKK7vDZYo5I)
-  - [ ] [CDD (Cognitive Driven Development): Como o contexto pode influenciar no limite de complexidade](https://www.youtube.com/watch?v=NwYjSgEivyU)
-  - [ ] [CDD: Cognitive Driven Development](https://www.youtube.com/watch?v=rqw_Jnv6ZX4)
-  - [ ] [Pilares de um(a) dev eficiente](https://www.youtube.com/playlist?list=PLVHlvMRWE0Y4WmkV47XaWeF-Xfl_lGq8S)
-- [ ] Programação concorrente
-  - [ ] [Programação Concorrente](https://www.youtube.com/watch?v=FYKNHk3Ze8A)
-  - [ ] [Programação Concorrente - Java Threads - Introdução](https://www.youtube.com/watch?v=bCmrhSma5bw)
-  - [ ] [Programação Concorrente - Java Threads - Criando e Executando Thread](https://www.youtube.com/watch?v=4MetzKSvzqU)
-  - [ ] [Threads em Java 1: Programação paralela](https://www.alura.com.br/curso-online-threads-java-1)
-  - [ ] [Threads em Java 2: Programação concorrente avançada](https://www.alura.com.br/curso-online-threads-java-2)
-- [ ] Depuração de código
-  - [ ] [Java Debug: técnicas para entender e melhorar o seu código](https://www.alura.com.br/curso-online-java-debug)
-- [ ] Design Patterns
-  - [x] [Aprendendo Domain Driven Design (DDD) do zero](https://www.udemy.com/course/aprendendo-domain-drive-design-ddd-do-zero/)
-  - [ ] [Design Patterns com Java - Entendendo Padrões de Projetos](https://www.udemy.com/course/curso-design-patterns-java/)
-  - [ ] [Design Patterns em Java I: Introdução às boas práticas de programação](https://www.alura.com.br/curso-online-introducao-design-patterns-java)
-  - [ ] [Design Patterns em Java II: Avançando nas boas práticas de programação](https://www.alura.com.br/curso-online-avancando-design-patterns-java)
-- [ ] DevOps
-  - Docker 
-    - [ ] [Docker: Ferramenta essencial para Desenvolvedores](https://www.udemy.com/course/curso-docker/)
-    - [ ] [DevOps Ninja: Docker, Kubernetes e Rancher](https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/)
-    - [ ] [Docker do 0 à Maestria: Contêineres Desmistificados + BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/)
-    - [ ] [Formação Certificação Docker DCA](https://www.alura.com.br/formacao-docker-dca)
-  - Pipelines
-    - [ ] [Gitlab CI: Pipelines, Continuous Delivery e Deployment](https://www.udemy.com/course/gitlab-ci-pipelines-continuous-delivery-e-deployment/)
-    - [ ] [DevOps na Prática: Criando uma Pipeline do Zero](https://www.udemy.com/course/devops-na-pratica-criando-uma-pipeline-do-zero/)
-  - Kubernetes 
-    - [ ] [Orquestração de Containers com Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
-    - [ ] [Formação DevOps](https://www.alura.com.br/formacao-devops)
-    - [ ] [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](https://www.udemy.com/course/azurepipelines/)
-  - Jenkins
-  - [ ] [Aprenda a Criar Especificações de APIs com Swagger e OpenAPI](https://www.udemy.com/course/aprenda-a-criar-especificacoes-de-apis-com-swagger-e-openapi/)
-- [ ] Bancos de dados relacionais e SQL
-  - [ ] [SQL Server, MySQL, Oracle, T-SQL e PLSQL](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
-  - [ ] [Aprenda Redis](https://www.udemy.com/course/aprenda-redis/)
-- [ ] Técnicas de refactoring de código
-  - [ ] [Defina um objetivo claro para o seu processo de refatoração](https://www.youtube.com/watch?v=J1Vo4o2e1Ug)
-- [ ] AWS
-  - [ ] [Certificação AWS Desenvolvedor - Associate - 2021 (CodePipeline)](https://www.udemy.com/course/aws-developer/)
-  - [ ] [Amazon Lambda: Primeiros passos à execução de código sem servidor](https://www.alura.com.br/curso-online-serverless-aws-lambda)
-  - [ ] [AWS para Iniciantes 2020 - Aprenda e Domine a nuvem Amazon](https://www.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/)
-  - [ ] [Criando microsserviços em Java com AWS ECS e Fargate](https://www.udemy.com/course/aws-ecs-fargate-java/)
-  - [ ] [Formação Amazon Web Services](https://www.alura.com.br/formacao-amazon-web-services)
-  - [ ] [REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/)
+## Cursando
+- [x] [Curso de Docker Swarm: Orquestrador de containers](https://cursos.alura.com.br/course/docker-swarm-cluster-container)
+- [x] [Curso de Monitoramento: Prometheus, Grafana e Alertmanager](https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager)
+- [x] [Curso de Python 3 parte 1: introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
+
+## Próximos passos
+
+- Programação
+  - [ ] [Formação Python](https://cursos.alura.com.br/formacao-Python-linguagem)
+  - [ ] [Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+
+- Monitoramento
+  - [ ] [Curso de Grafana e Telegraf: Monitoramento em tempo real](https://cursos.alura.com.br/course/grafana-telegraf-monitoramento)
+  - [ ] [Monitoramento de aplicações com Prometheus e Grafana](https://www.udemy.com/course/monitorando-aplicacoes-com-prometheus-e-grafana/)
+
+- Infra/Cloud
+  - [ ] [Formação DevOps](https://cursos.alura.com.br/formacao-devops)
+  - [ ] [Certificação Amazon AWS Solution Architect 2022 + 3 CURSOS](https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/)
