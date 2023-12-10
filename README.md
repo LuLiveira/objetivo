@@ -8,7 +8,7 @@
 - Anotar o numero de palavras que tive necessidade de pesquisar a tradução
 
 ===== OBJETIVO =====
-APRIMORAR NO JAVA
+<br>APRIMORAR NO JAVA
 - Dar continuidade no curso do Dev Eficiente
 - Finalizar até 01 de Julho de 2024
 - Iniciar o curso Isiflix em 02 de Julho de 2024
@@ -19,11 +19,11 @@ APRIMORAR NO JAVA
 - Se sobrar tempo...finalizar os livros de tecnologia
 
 ===== OBJETIVO =====
-TER UM PATRIMONIO MAIOR DE 50 MIL
+<br>TER UM PATRIMONIO MAIOR DE 50 MIL
 - Investir pelo menos 1.000 por mês até 31 de Dezembro de 2024.
 
 
 ===== OBJETIVO =====
-TIRAR CERTIFICAÇÃO AWS
+<br>TIRAR CERTIFICAÇÃO AWS
 - Tirar certificação solutions architect em Setembro
 - Se preparar a partir de Junho.
