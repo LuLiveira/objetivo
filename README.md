@@ -1,21 +1,29 @@
-# ROADMAP - 2022
-### Objetivo: Me tornar desenvolvedor Sênior.
+===== OBJETIVO =====
+APRENDER INGLÊS
+- Dar continuidade no curso do Mairo Vergara até o fim.
+- Terminar o curso até 01 de Dezembro de 2024
+- Ler 1 artigo de inglês por sabado
+- Escrever 4 artigos sobre Java no ano EM INGLÊS até 31 de Dezembro de 2024
+- Assistir 1 filmes por mês (preferencia Harry Potter)
+- Anotar o numero de palavras que tive necessidade de pesquisar a tradução
 
-## Cursando
-- [x] [Curso de Docker Swarm: Orquestrador de containers](https://cursos.alura.com.br/course/docker-swarm-cluster-container)
-- [x] [Curso de Monitoramento: Prometheus, Grafana e Alertmanager](https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager)
-- [x] [Curso de Python 3 parte 1: introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
+===== OBJETIVO =====
+APRIMORAR NO JAVA
+- Dar continuidade no curso do Dev Eficiente
+- Finalizar até 01 de Julho de 2024
+- Iniciar o curso Isiflix em 02 de Julho de 2024
+- Finalizar o curso do Isiflix até 31 de Dezembro de 2024
+- Conseguir desenvolver código com maior qualidade
+- Fazer 8 videos em inglês sobre os temas do curso
 
-## Próximos passos
+- Se sobrar tempo...finalizar os livros de tecnologia
 
-- Programação
-  - [ ] [Formação Python](https://cursos.alura.com.br/formacao-Python-linguagem)
-  - [ ] [Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+===== OBJETIVO =====
+TER UM PATRIMONIO MAIOR DE 50 MIL
+- Investir pelo menos 1.000 por mês até 31 de Dezembro de 2024.
 
-- Monitoramento
-  - [ ] [Curso de Grafana e Telegraf: Monitoramento em tempo real](https://cursos.alura.com.br/course/grafana-telegraf-monitoramento)
-  - [ ] [Monitoramento de aplicações com Prometheus e Grafana](https://www.udemy.com/course/monitorando-aplicacoes-com-prometheus-e-grafana/)
 
-- Infra/Cloud
-  - [ ] [Formação DevOps](https://cursos.alura.com.br/formacao-devops)
-  - [ ] [Certificação Amazon AWS Solution Architect 2022 + 3 CURSOS](https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/)
+===== OBJETIVO =====
+TIRAR CERTIFICAÇÃO AWS
+- Tirar certificação solutions architect em Setembro
+- Se preparar a partir de Junho.
