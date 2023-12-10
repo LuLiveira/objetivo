@@ -1,5 +1,5 @@
 ===== OBJETIVO =====
-APRENDER INGLÊS
+<br>APRENDER INGLÊS
 - Dar continuidade no curso do Mairo Vergara até o fim.
 - Terminar o curso até 01 de Dezembro de 2024
 - Ler 1 artigo de inglês por sabado
