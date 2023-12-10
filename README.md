@@ -21,7 +21,8 @@
 ===== OBJETIVO =====
 <br>TER UM PATRIMONIO MAIOR DE 50 MIL
 - Investir pelo menos 1.000 por mês até 31 de Dezembro de 2024.
-
+- Aprimorar o conhecimento sobre investimentos através de cursos
+- Concluir o curso do professor Mira até Julho de 2024
 
 ===== OBJETIVO =====
 <br>TIRAR CERTIFICAÇÃO AWS
